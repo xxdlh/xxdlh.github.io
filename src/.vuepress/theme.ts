@@ -24,7 +24,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: '默认页脚',
+  footer: '',
   displayFooter: true,
 
   // 加密配置
@@ -99,7 +99,7 @@ export default hopeTheme({
       sup: true,
       tabs: true,
       tasklist: true,
-      vPre: true
+      vPre: true,
 
       // 在启用之前安装 chart.js
       // chart: true,
@@ -107,7 +107,7 @@ export default hopeTheme({
       // insert component easily
 
       // 在启用之前安装 echarts
-      // echarts: true,
+      echarts: true
 
       // 在启用之前安装 flowchart.ts
       // flowchart: true,

@@ -16,5 +16,8 @@
     "vue": "^3.4.23",
     "vuepress": "2.0.0-rc.9",
     "vuepress-theme-hope": "2.0.0-rc.37"
+  },
+  "dependencies": {
+    "echarts": "^5.5.0"
   }
 }
